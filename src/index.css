@@ -12,3 +12,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.openseadragon {
+  width:200px;
+  height: 200px;
+}
+
+#navigator {
+  width:100%;
+  height: 100%;
+}
